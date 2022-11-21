@@ -1,0 +1,1 @@
+lst1 = ["sneha",1,"shrishti"]
